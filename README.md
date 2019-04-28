@@ -1,2 +1,2 @@
-# theone
-kodi addon based on Jen Template
+# TheOne
+kodi video addon (based on Jen Template)
